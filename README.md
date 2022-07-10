@@ -310,17 +310,6 @@ Resume coded in Latex for parsing
 %-------------------------------------------------- TECHNICAL AND SOFT SKILLS --------------------------------------------------
 
 \section{\faGears}{ Techincal \& Soft Skills}
- \resumeEntryStart
-  \resumeEntryS{Computer Programming : } {Professional level fluency/proficiency in Python, Java, JavaScript, HTML \& CSS}
-  \resumeEntryS{Hobbies \& Interests :} {Soccer, Ping Pong, Biking, Educational Outreach \& Scholarship Mentoring, Teaching Programming }
-  \resumeEntryS{Leadership, Awards \& Recognition :} {Vice President of NSBE Campus Engineering Society, Presidential Scholar,     Dean’s Award for Excellence, American Nuclear Society Honors Recognition, Mayor Appointed Commissioner    }
-  \resumeEntryS{Muti-Lingual Skill:} {English(native fluency),Italian(intermediate,Ghanaian(native fluency),German(beginner/intermediate)}
-  \resumeEntryS{International Travel/ Cultural Exposure:} {UK, Poland, USA, Africa, Germany, Portugal}
-
-  \resumeEntryEnd
-
-
-
 
     \resumeEntryStart
       \resumeEntryTD
@@ -367,6 +356,7 @@ Resume coded in Latex for parsing
             \resumeEntryEnd
 
 \end{document}
+
 
 
 ```
