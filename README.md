@@ -353,7 +353,7 @@ Resume coded in Latex for parsing
             \resumeEntryTD
               {Muti-Lingual Skills: }{}
             \resumeItemListStart
-              \resumeItem {English(native fluency),Italian(intermediate,Ghanaian(native fluency),German(beginner/intermediate) }
+              \resumeItem {English(native fluency), Italian(intermediate), Ghanaian(native fluency), German(beginner/intermediate) }
             \resumeItemListEnd
           \resumeEntryEnd
 
@@ -362,10 +362,11 @@ Resume coded in Latex for parsing
               \resumeEntryTD
                 {International Travel/ Cultural Exposure: }{}
               \resumeItemListStart
-                \resumeItem { Italy, Great Britain, Poland, USA, Africa, Germany, Portugal}
+                \resumeItem { Italy, Great Britain, Poland, USA(30+ States), Africa, Germany, Portugal}
               \resumeItemListEnd
             \resumeEntryEnd
 
 \end{document}
+
 
 ```
