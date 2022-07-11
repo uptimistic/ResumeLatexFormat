@@ -31,7 +31,7 @@ Resume coded in Latex for parsing
 %-------------------------------------------------- SETTINGS HERE --------------------------------------------------
 % Header settings
 \def \fullname {Kwadwo Adutwum}
-\def \subtitle {Software Developer, Nuclear/Mechanical Engineer, Researcher}
+\def \subtitle {Software Developer|Nuclear,Mechanical Engineer|Researcher}
 
 \def \linkedinicon {\faLinkedin}
 \def \linkedinlink {https://www.linkedin.com/in/kwadwoadutwum/}
@@ -54,7 +54,7 @@ Resume coded in Latex for parsing
 
 
 \def \homeaddressicon {\faHome}
-\def \homeaddresstext {23055 Woodland Rd, Lakeville,MN 55044}
+\def \homeaddresstext {23055 Woodland Rd,Lakeville,MN55044}
 
 \def \headertype {\singlecol} % \singlecol or \doublecol
 
